@@ -6,7 +6,9 @@ The reason for this project was to use expess.js to help create a note taking ap
 
 ## Usage
 
-demo video: 
+deployed link: https://dameine.github.io/note-taking-challenge-11/
+
+github repo: https://github.com/Dameine/note-taking-challenge-11
 
 ## Screenshots
 ![Start up page](./public/assets/images/1.png)
